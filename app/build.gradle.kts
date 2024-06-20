@@ -43,4 +43,8 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    //Dependencies for the Reflect
+    implementation("org.jetbrains.kotlin:kotlin-reflect:1.6.10")
+    testImplementation(kotlin("test"))
 }
