@@ -12,4 +12,9 @@ package com.example.annotations
 @MustBeDocumented
 annotation class Smartphone(val os : String){
 
+
+
+
+
+
 }
