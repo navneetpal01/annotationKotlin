@@ -10,6 +10,11 @@ fun main(){
     val phoneRefObj = Phone::class
     println(phoneRefObj.annotations)
 
+    val phone = Phone()
+
+
+
+
 
 
 
